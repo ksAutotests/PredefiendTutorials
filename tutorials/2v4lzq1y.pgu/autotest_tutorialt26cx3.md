@@ -15,7 +15,8 @@ autotest tutorial textLs8qP5
 
 ## Prerequisites
 - Prerequisute1
-- Prerequisute2
+- Prerequisute2 SOmetext
+- Prerequisute3
 - Prerequisute4
 
 [ACCORDION-BEGIN [](First step)]
